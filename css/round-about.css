@@ -1,17 +1,15 @@
 /*!
- * Start Bootstrap - Round About (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Start Bootstrap - Round About (http://startbootstrap.com/template-overviews/round-about)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-round-about/blob/master/LICENSE)
  */
 
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 54px;
 }
 
-.img-center {
-	margin: 0 auto;
-}
-
-footer {
-    margin: 50px 0;
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
 }
