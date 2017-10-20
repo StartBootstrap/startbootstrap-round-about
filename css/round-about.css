@@ -1,15 +1,15 @@
 /*!
- * Start Bootstrap - Round About (http://startbootstrap.com/template-overviews/round-about)
+ * Start Bootstrap - Round About (https://startbootstrap.com/template-overviews/round-about)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-round-about/blob/master/LICENSE)
  */
 
 body {
-    padding-top: 54px;
+  padding-top: 54px;
 }
 
 @media (min-width: 992px) {
-    body {
-        padding-top: 56px;
-    }
+  body {
+    padding-top: 56px;
+  }
 }
